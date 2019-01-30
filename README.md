@@ -12,10 +12,4 @@ and some more
 
 ## Final edit
 
-or maybe this is really final
-
-yadada
-
-repository forking on automarge
-
-Rebasing testing, second level changes
+Stashing part 1
